@@ -1,0 +1,2 @@
+rootProject.name = "IamgeView"
+include ':app'
